@@ -1,0 +1,6 @@
+framework module Pods_FreeGeoIP {
+  umbrella header "Pods-FreeGeoIP-umbrella.h"
+
+  export *
+  module * { export * }
+}
