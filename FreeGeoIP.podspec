@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 	s.social_media_url = "http://twitter.com/Haaxor1689"
 
 	s.source   = { :git => "https://github.com/Haaxor1689/FreeGeoIP.git", :tag => "#{s.version}" }
-	s.homepage = "https://github.com/Haaxor1689/MultiPing.git"
+	s.homepage = "https://github.com/Haaxor1689/FreeGeoIP.git"
 
 	s.source_files        = "FreeGeoIP/**/*.swift"
 	
