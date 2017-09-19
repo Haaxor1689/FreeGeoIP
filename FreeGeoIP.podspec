@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 	s.name        = "FreeGeoIP"
 	s.platform    = :ios, "9.0"
-	s.version     = "0.1.0"
+	s.version     = "0.1.1"
 	s.summary     = "Simple and lightweight pod for getting geolocation of you current IP."
 
 	s.description = <<-DESC
